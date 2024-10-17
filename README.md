@@ -3,7 +3,7 @@
 ## Descripción
 Este proyecto se realizó con la intención de aprender normalizacion de datos en formato .csv para luego cargarlos en un motor de base de datos, en este caso MariaDB y modificarlos en base a nuestra necesidad.
 
-Con este objetivo en mente, elegimos un Dataset que contiene informacion sobre Formula 1 commo los pilotos, escuderias, carreras, circuitos, tiempos y puntos ganaddos de 1950 hasta 2024.
+Con este objetivo en mente, elegimos un Dataset que contiene informacion sobre Formula 1 como los pilotos, escuderias, carreras, circuitos, tiempos y puntos ganaddos de 1950 hasta 2024.
 
 El referido Dataset puede ser encontrado en el siguiente
 [enlace](https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020/data).
